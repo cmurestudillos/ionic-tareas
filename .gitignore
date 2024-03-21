@@ -24,6 +24,7 @@ coverage/
 android/
 www/
 node_modules/
+package-lock.json
 tmp/
 temp/
 platforms/
